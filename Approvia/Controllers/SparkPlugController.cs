@@ -24,11 +24,17 @@ namespace Approvia.Core.Controllers
             _webFormRepo = webFormRepository;
             _mapper = mapper;
         }
+
+        /// <summary>
+        /// submits the form to the backend and returns a response.
+        /// https://localhost:44321/api/SparkPlug/add-form
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         [HttpPost("add-form")]
         public async Task<IActionResult> AddWebForm([FromForm] AddFormDTO model)
         {
-
-            var feedBack = _mapper.Map<MySparkPlugFeedback>(model);
+            var feedBack = _mapper.Map<MySparkPlugFeedback>(model); // automapper
             var response = await _webFormRepo.AddFormAsync(feedBack);
             if (response == false)
             {
