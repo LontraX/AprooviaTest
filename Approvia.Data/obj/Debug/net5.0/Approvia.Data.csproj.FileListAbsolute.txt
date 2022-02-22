@@ -10,3 +10,15 @@ C:\Users\hp\source\repos\Approvia\Approvia.Data\bin\Debug\net5.0\Approvia.Data.p
 C:\Users\hp\source\repos\Approvia\Approvia.Data\obj\Debug\net5.0\Approvia.Data.dll
 C:\Users\hp\source\repos\Approvia\Approvia.Data\obj\Debug\net5.0\ref\Approvia.Data.dll
 C:\Users\hp\source\repos\Approvia\Approvia.Data\obj\Debug\net5.0\Approvia.Data.pdb
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\bin\Debug\net5.0\Approvia.Data.deps.json
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\bin\Debug\net5.0\Approvia.Data.dll
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\bin\Debug\net5.0\ref\Approvia.Data.dll
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\bin\Debug\net5.0\Approvia.Data.pdb
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.dll
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\ref\Approvia.Data.dll
+C:\Users\hp\Source\Repos\AprooviaTest\Approvia.Data\obj\Debug\net5.0\Approvia.Data.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia\\Approvia.Core.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia\\Approvia.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj": {
+    "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj",
         "projectName": "Approvia.Data",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia\\Approvia.Core.csproj": {
+    "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia\\Approvia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia\\Approvia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia\\Approvia.Core.csproj",
         "projectName": "Approvia.Core",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia\\Approvia.Core.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia\\Approvia.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -112,8 +112,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj"
+              "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj"
               }
             }
           }

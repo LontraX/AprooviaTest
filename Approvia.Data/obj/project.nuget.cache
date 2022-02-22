@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AgsxZeioJah6sHEkXJinDYW8tinOHL8h1g7qVp7ZLYkdcp8vcdL5ffkoit18dAXb+l7YZzgroTgNGmh/HY+H0g==",
+  "dgSpecHash": "GwoMQNi3/G8JXtKhnIrdH8fjKaygw6Fkt1SuIkc58E9dxn6GUQPtNnxORxR9ZD34xc4J4JEzENfpijlquE1vSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Approvia\\Approvia.Data\\Approvia.Data.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\AprooviaTest\\Approvia.Data\\Approvia.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
